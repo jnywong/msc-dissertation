@@ -1,0 +1,38 @@
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {subsection}{\numberline {1.1}Motivation}{2}
+\contentsline {subsection}{\numberline {1.2}History}{3}
+\contentsline {subsection}{\numberline {1.3}Aims and Objectives}{3}
+\contentsline {section}{\numberline {2}The Stability Theory of Liquid Jets}{4}
+\contentsline {subsection}{\numberline {2.1}The Inviscid Jet}{4}
+\contentsline {subsubsection}{\numberline {2.1.1}Rayleigh's Linear Stability Analysis}{4}
+\contentsline {subsubsection}{\numberline {2.1.2}The Long Wave Approximation}{6}
+\contentsline {subsubsection}{\numberline {2.1.3}The Critical Break Up Length of an Inviscid Jet}{7}
+\contentsline {subsection}{\numberline {2.2}The Viscous Jet}{8}
+\contentsline {subsubsection}{\numberline {2.2.1}The Slender Jet Equations}{8}
+\contentsline {subsubsection}{\numberline {2.2.2}Linear Stability Analysis}{9}
+\contentsline {subsubsection}{\numberline {2.2.3}The Critical Break Up Length of Viscous Jets}{10}
+\contentsline {subsection}{\numberline {2.3}The Viscoelastic Jet}{11}
+\contentsline {subsection}{\numberline {2.4}The Dynamics of Jet Break Up}{11}
+\contentsline {subsubsection}{\numberline {2.4.1}The Universal Eggers Regime}{12}
+\contentsline {subsubsection}{\numberline {2.4.2}The Inertial Regime}{12}
+\contentsline {subsubsection}{\numberline {2.4.3}The Viscous Regime}{12}
+\contentsline {subsubsection}{\numberline {2.4.4}The Elastocapillary Regime}{13}
+\contentsline {section}{\numberline {3}The Rayleigh Ohnesorge Jetting Extensional Rheometer}{14}
+\contentsline {subsection}{\numberline {3.1}Experimental Setup}{14}
+\contentsline {subsubsection}{\numberline {3.1.1}Nozzle Designs}{14}
+\contentsline {subsubsection}{\numberline {3.1.2}Fluid Materials}{15}
+\contentsline {subsubsection}{\numberline {3.1.3}Exit Effects}{16}
+\contentsline {subsubsection}{\numberline {3.1.4}Image Analysis}{17}
+\contentsline {subsection}{\numberline {3.2}Operation}{18}
+\contentsline {subsection}{\numberline {3.3}Reproducibility}{19}
+\contentsline {section}{\numberline {4}Results and Discussion}{21}
+\contentsline {subsection}{\numberline {4.1}Operating Range}{21}
+\contentsline {subsection}{\numberline {4.2}Nozzle Comparison}{22}
+\contentsline {subsection}{\numberline {4.3}Jet Break Up Lengths}{23}
+\contentsline {subsection}{\numberline {4.4}Viscoelastic Fluids}{24}
+\contentsline {subsubsection}{\numberline {4.4.1}EHEC Concentrations 0.1, 0.2, 0.4 and 0.6 wt.\%}{24}
+\contentsline {subsubsection}{\numberline {4.4.2}PEO Concentration 0.1 wt.\%}{27}
+\contentsline {subsection}{\numberline {4.5}Error Analysis}{27}
+\contentsline {section}{\numberline {5}Conclusion}{29}
+\contentsline {section}{\numberline {6}Acknowledgements}{30}
+\contentsline {section}{Appendices}{33}

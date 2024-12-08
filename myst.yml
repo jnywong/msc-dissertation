@@ -1,0 +1,16 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 880cad74-b471-4950-9cb1-9134f0614835
+  title: Capillary Driven Jet Breakup
+  authors: Jenny Wong
+  date: 19 Jun, 2015
+  banner: Figures/montage1.png
+  license: CC BY-SA 4.0
+  # github:
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: article-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
