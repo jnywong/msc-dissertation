@@ -9,7 +9,7 @@ project:
   license: CC-BY-SA-4.0
   numbering:
     headings: true
-  # github:
+  github: jnywong/msc-dissertation
 
 site:
   template: article-theme
