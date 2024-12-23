@@ -10,6 +10,8 @@ project:
   numbering:
     headings: true
   github: jnywong/msc-dissertation
+  toc:
+    - file: indivReport.tex
 
 site:
   template: article-theme
